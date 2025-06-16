@@ -1,0 +1,5 @@
+tensorflow==2.18.0
+tensorflowjs==4.22.0
+numpy
+matplotlib
+scikit-learn
