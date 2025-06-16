@@ -24,8 +24,3 @@ submission/
 
 ## Dependensi
 Lihat `requirements.txt`.
-
-## Kontak
-- Nama: M. Hafis Afrizal
-- Email: hafisafrizal10@gmail.com
-- ID Dicoding: hafisafrizal
